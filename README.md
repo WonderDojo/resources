@@ -4,7 +4,7 @@ Here we list possible resources for training.
 
 ## Websites for training
 
-### [HackerRank](https://www.hackerrank.com) [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)]() [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)]()
+### [HackerRank](https://www.hackerrank.com) [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)]()
 
 Provides multiple languages (Python, C++ , Java, Ruby and Bash). Structured guides that teach the language and programming concepts.
 
