@@ -94,9 +94,10 @@ Python copmplete guide.
 Clojure guide
 
 ### [Try Ruby](http://tryruby.org/levels/1/challenges/0)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#) 
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
-
+### [Google's Python Class](https://developers.google.com/edu/python/)
+[![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ## Online course websites
 
