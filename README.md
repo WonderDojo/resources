@@ -101,24 +101,18 @@ Clojure guide
 ## Online course websites
 
 ### [EdX](https://www.edx.org/)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ### [Coursera](https://www.coursera.org/)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ### [Udacity](https://eu.udacity.com/)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ### [Class Central](https://www.class-central.com/)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ### [Udemy](https://www.udemy.com)
-[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
 ## Books
 
 ### [Cracking the code interview](http://www.crackingthecodinginterview.com/)
-
 
 ## Other
 
