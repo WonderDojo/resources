@@ -14,6 +14,9 @@ Provides multiple languages (Python, C++ , Java, Ruby and Bash). Structured guid
 
 Provides multiple languages (Python, Javascript, Java, Clojure, Scala, Erlang, Ruby, C#, go ...). Clean interface with description, coding area and tests. Once the problem is solved you can see solutions from others and upvote.
 
+### [Leet Code](https://leetcode.com/problemset/all/)
+[![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
 ### [Project Euler](https://projecteuler.net/)
 [![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#) 
 
@@ -29,8 +32,6 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 
 ### [TopCoder](https://arena.topcoder.com)
 [![Hard](https://img.shields.io/badge/Level-hard-red.svg)](#) [![Online](https://img.shields.io/badge/Medium-Online-1abc9c.svg)](#) 
-
-
 
 ## Fun Learning
 
@@ -50,6 +51,11 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
 Game to learn basic structures in Python, JavaScript, CoffeeScript or Lua
+
+### [Vim adventure](https://vim-adventures.com/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
+Learn Vim basics. Vim is a command-line text editor.
 
 ### [CheckIO](https://checkio.org/) 
 [![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
@@ -108,3 +114,12 @@ Clojure guide
 
 ### [Udemy](https://www.udemy.com)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
+
+## Books
+
+### [Cracking the code interview](http://www.crackingthecodinginterview.com/)
+
+
+## Other
+
+### [Interview training](https://www.pramp.com/)
