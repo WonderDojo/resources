@@ -40,6 +40,12 @@ Game to learn basic structures in Python, JavaScript, CoffeeScript or Lua
 ### [CheckIO](https://checkio.org/) 
 [![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
+Java and python
+
+### [Codin Game](https://www.codingame.com/home) 
+[![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
+Many programming languages.
 
 ## Websites for learning
 
@@ -68,5 +74,17 @@ Clojure guide
 
 ## Online course websites
 
+### [EdX](https://www.edx.org/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
+### [Coursera](https://www.coursera.org/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
 
+### [Udacity](https://eu.udacity.com/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
+
+### [Class Central](https://www.class-central.com/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
+
+### [Udemy](https://www.udemy.com)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
