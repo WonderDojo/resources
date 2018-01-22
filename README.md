@@ -34,6 +34,15 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 
 ## Fun Learning
 
+### [Code Monkey](https://www.playcodemonkey.com/challenges/0)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
+### [CSS Dinner](https://flukeout.github.io/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
+### [Flexbox Froggy](http://flexboxfroggy.com/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
+
 ### [CodeCombat](https://codecombat.com/play)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
