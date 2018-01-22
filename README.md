@@ -30,6 +30,8 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 ### [TopCoder](https://arena.topcoder.com)
 [![Hard](https://img.shields.io/badge/Level-hard-red.svg)](#) [![Online](https://img.shields.io/badge/Medium-Online-1abc9c.svg)](#) 
 
+
+
 ## Fun Learning
 
 ### [CodeCombat](https://codecombat.com/play)
@@ -46,6 +48,8 @@ Java and python
 [![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
 Many programming languages.
+
+
 
 ## Websites for learning
 
@@ -71,6 +75,8 @@ Clojure guide
 
 ### [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#) 
+
+
 
 ## Online course websites
 
