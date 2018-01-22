@@ -43,6 +43,8 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 ### [Flexbox Froggy](http://flexboxfroggy.com/)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
+### [Flexbox Defense](http://www.flexboxdefense.com/)
+
 ### [CodeCombat](https://codecombat.com/play)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
@@ -58,6 +60,8 @@ Java and python
 
 Many programming languages.
 
+### [Code Hunt](https://www.codehunt.com/)
+[![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
 
 ## Websites for learning
