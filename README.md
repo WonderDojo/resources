@@ -44,6 +44,7 @@ New batch of challenes every year. 25 challenges released every day from 1 Dec t
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
 ### [Flexbox Defense](http://www.flexboxdefense.com/)
+[![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
 ### [CodeCombat](https://codecombat.com/play)
 [![Begginer](https://img.shields.io/badge/Level-beginer-green.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
