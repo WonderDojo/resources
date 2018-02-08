@@ -22,6 +22,11 @@ Provides multiple languages (Python, Javascript, Java, Clojure, Scala, Erlang, R
 
 Any language.
 
+### [Kattis](https://open.kattis.com/)
+[![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#)
+
+Popular in Sweden, some Swedish companies use this website to screen candidates during the technical interview.
+
 ### [Advent of code](https://adventofcode.com/)
 [![Hard](https://img.shields.io/badge/Level-hard-red.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#) 
 
