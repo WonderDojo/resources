@@ -107,6 +107,10 @@ Clojure guide
 ### [A tour of Go](https://tour.golang.org/welcome/1)
 [![Intermediate](https://img.shields.io/badge/Level-intermediate-orange.svg)](#) [![Online](https://img.shields.io/badge/Medium-online-1abc9c.svg)](#)
 
+### [Learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+[![Beginner](https://img.shields.io/badge/Level-beginner-green.svg)](#) [![Computer](https://img.shields.io/badge/Medium-computer-1abc9c.svg)](#) 
+JavaScript study program
+
 ## Online course websites
 
 ### [EdX](https://www.edx.org/)
